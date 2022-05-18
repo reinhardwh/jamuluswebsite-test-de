@@ -1,5 +1,6 @@
 .jekyll-cache
 _site
+<<<<<<< Updated upstream
 jamuluswebsite-test-de/index.markdown
 jamuluswebsite-test-de/404.html
 _translator-files/po/.DS_Store
@@ -7,3 +8,14 @@ _translator-files/.DS_Store
 Website(1).zip
 _translator-files/po/de/.DS_Store
 .DS_Store
+Website.zip
+index.markdown
+_translator-files/po/de/Installation-for-Macintosh.po
+_translator-files/po/de/Include-Shared-Commands.po
+_translator-files/po/de/Include-Server-Commands.po
+_translator-files/po/de/Include-Client-Commands.po
+_translator-files/po/de/Include-Backing-Up.po
+_translator-files/po/de/general.po
+_translator-files/po/de/1-index.po
+=======
+>>>>>>> Stashed changes

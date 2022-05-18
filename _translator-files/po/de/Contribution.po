@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2022-05-16 22:24+0200\n"
+"PO-Revision-Date: 2022-05-12 16:59+0200\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: de\n"
@@ -48,7 +48,7 @@ msgstr "#  Zum Jamulus-Projekt beitragen"
 #. type: Plain text
 #: ../wiki/en/Contribution.md:11
 msgid "If you find a mistake, typo or something out of date (in any language) on this website or in Jamulus itself, you can <a href=\"https://github.com/jamulussoftware/jamulus/issues\">raise it as a bug</a>."
-msgstr "Wenn du auf dieser Website oder in Jamulus selbst einen Fehler, einen Tippfehler oder etwas Veraltetes (egal in welcher Sprache) findest, kannst du <a href=\"https://github.com/jamulussoftware/jamulus/issues\">Verbesserungen hier melden</a>."
+msgstr "Wenn du auf dieser Website oder in Jamulus selbst einen Fehler, einen Tippfehler oder etwas Veraltetes (egal in welcher Sprache) findest, kannst du <a href=„https://github.com/jamulussoftware/jamulus/issues“>Verbesserungen hier melden</a>."
 
 #. type: Plain text
 #: ../wiki/en/Contribution.md:13
@@ -63,9 +63,9 @@ msgstr "Wenn du bei der Übersetzung mithelfen möchtest, benötigst du ein GitH
 #. type: Plain text
 #: ../wiki/en/Contribution.md:18
 msgid "## Want to contribute code?"
-msgstr "## Möchtest du Code beitragen?"
+msgstr "## Möchten Sie Code beitragen?"
 
 #. type: Plain text
 #: ../wiki/en/Contribution.md:19
 msgid "See our [guidelines for getting involved in development](https://github.com/jamulussoftware/jamulus/blob/master/CONTRIBUTING.md)."
-msgstr "Siehe unsere [Leitlinien für die Beteiligung an der Entwicklung](https://github.com/jamulussoftware/jamulus/blob/master/CONTRIBUTING.md)."
+msgstr "Siehe unsere [Leitlinien für die Beteiligung an der Entwicklung] (https://github.com/jamulussoftware/jamulus/blob/master/CONTRIBUTING.md)."

@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2022-05-16 22:23+0200\n"
+"PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: de\n"
@@ -82,7 +82,7 @@ msgstr "**Mirror 2:** [SourceForge](https://sourceforge.net/projects/llcon/files
 #: ../wiki/en/Installation-for-Windows.md:20
 #, no-wrap
 msgid "**Install Jamulus**: Double click the installer to launch it. If you get a warning notice from SmartScreen, click on \"More info\" and \"Run anyway\" to install Jamulus. (If you grabbed a new version of Jamulus and are one of the first people who downloaded it, Jamulus won't be whitelisted by SmartScreen yet. We don't pay for code signing.)\n"
-msgstr "**Installiere Jamulus**: Doppelklicke auf Installer, um die Installation zu starten. Wenn du eine Warnung von SmartScreen bekommst, klicke auf \"Mehr Infos\" und \"Trotzdem ausführen\", um Jamulus zu installieren. (Wenn du eine neue Version von Jamulus heruntergeladen hast und auch einer der Ersten warst, wird Jamulus noch nicht auf der SmartScreen-Whitelist sein. Du erhältst diese Meldung, da wir momentan nicht für ein Software Zertifikat für Jamulus zahlen.)\n"
+msgstr "**Installiere Jamulus**: Doppelklicke auf Installer, um die Installation zu starten. Wenn du eine Warnung von SmartScreen bekommst, klicke auf „Mehr Infos“ und „Trotzdem ausführen“, um Jamulus zu installieren. (Wenn du eine neue Version von Jamulus heruntergeladen hast und auch einer der Ersten warst, wird Jamulus noch nicht auf der SmartScreen-Whitelist sein. Du erhältst diese Meldung, da wir momentan nicht für ein Software Zertifikat für Jamulus zahlen.)\n"
 
 #. type: Plain text
 #: ../wiki/en/Installation-for-Windows.md:21
@@ -99,7 +99,7 @@ msgstr "**Richte deine Soundkarte ein**. Wenn du fertig bist, musst du deine Aud
 #. type: Plain text
 #: ../wiki/en/Installation-for-Windows.md:24
 msgid "_Please note that you are not permitted to redistribute this binary without acquiring a [licence agreement from Steinberg](https://www.steinberg.net/developers/)._"
-msgstr "_Bitte beachte, dass du diese Binärdatei nicht weitergeben darfst, ohne eine [Lizenzvereinbarung von Steinberg](https://www.steinberg.net/developers/) zu erwerben_"
+msgstr "_Bitte beachte, dass du diese Binärdatei nicht weitergeben darfst, ohne eine [Lizenzvereinbarung von Steinberg] (https://www.steinberg.net/developers/) zu erwerben_"
 
 #. type: Plain text
 #: ../wiki/en/Installation-for-Windows.md:26
@@ -161,13 +161,13 @@ msgstr "### ASIO4ALL einrichten"
 #. type: Plain text
 #: ../wiki/en/Installation-for-Windows.md:48
 msgid "You may or may not need to experiment a bit depending on your sound hardware. If everything works out of the box, you don't need to do anything."
-msgstr "Je nach Hardware musst du verschiedene Einstellungen ausprobieren. Wenn alles funktioniert, musst du nichts tun."
+msgstr "Je nach Hardware musst du ein bisschen herumprobieren. Wenn alles funktioniert, musst du nichts tun."
 
 #. type: Plain text
 #: ../wiki/en/Installation-for-Windows.md:50
 #, no-wrap
 msgid "**Tip:** Set up your sound card while you're [connected to a Server](Getting-Started#connecting-to-a-server-and-testing-your-sound) to hear your instrument or voice and check if everything is correctly set up; but first read on.\n"
-msgstr "**Tipp:** Richte deine Soundkarte ein, während du [mit einem Server verbunden bist](Getting-Started###Mit einem Server verbinden und Audio testen), damit du dein Instrument oder deine Stimme hören kannst. Dadurch kannst du prüfen, ob alles richtig eingerichtet ist, aber lies erst einmal weiter.\n"
+msgstr "**Tipp:** Richte deine Sondkarte ein, während du [mit einem Server verbunden bist](Getting-Started#connecting-to-a-server-and-testing-your-sound), damit du dein Instrument oder deine Stimme hören kannst. Dadurch kannst du prüfen, ob alles richtig eingerichtet ist, aber lies erst einmal weiter.\n"
 
 #. type: Plain text
 #: ../wiki/en/Installation-for-Windows.md:53
@@ -189,7 +189,7 @@ msgstr "Wenn das Audio nicht sofort funktioniert, stelle sicher, dass die **rich
 #. type: Plain text
 #: ../wiki/en/Installation-for-Windows.md:57
 msgid "### How to set up ASIO4ALL inputs (Guide)"
-msgstr "### ASIO4ALL Ein- und Ausgänge einrichten (Anleitung)"
+msgstr "### ASIO4ALL Ein/Ausgänge einrichten (Anleitung)"
 
 #. type: Plain text
 #: ../wiki/en/Installation-for-Windows.md:59
@@ -199,7 +199,7 @@ msgstr "Jamulus Einstellungen öffnen"
 #. type: Plain text
 #: ../wiki/en/Installation-for-Windows.md:60
 msgid "Go to _\"ASIO Device Settings\"_ (column on the left; directly under the selection of the driver)"
-msgstr "Klick auf _\"ASIO Geräte Einstellungen\"_ (linke Spalte in Jamulus, unten)"
+msgstr "Klick auf _„ASIO Geräte Einstellungen“_ (linke Spalte in Jamulus, unten)"
 
 #. type: Plain text
 #: ../wiki/en/Installation-for-Windows.md:61
@@ -237,7 +237,7 @@ msgstr "Es ist möglicherweise nicht offensichtlich, wie das richtige Soundgerä
 #: ../wiki/en/Installation-for-Windows.md:68
 #, no-wrap
 msgid "Headphones and speakers are often labelled as \"output\" and microphones as \"input\" or \"capture\".\n"
-msgstr "Kopfhörer und Lautsprecher werden oft als \"Output\" und Mikrofone als \"Input\" oder \"Capture\" bezeichnet.\n"
+msgstr "Kopfhörer und Lautsprecher werden oft als „Output“ und Mikrofone als „Input“ oder „Capture“ bezeichnet.\n"
 
 #. type: Plain text
 #: ../wiki/en/Installation-for-Windows.md:69
